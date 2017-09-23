@@ -1,0 +1,17 @@
+c:\users\祐呈\documents\visual studio 2015\Projects\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+c:\users\祐呈\documents\visual studio 2015\Projects\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+c:\users\祐呈\documents\visual studio 2015\Projects\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+c:\users\祐呈\documents\visual studio 2015\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.csprojResolveAssemblyReference.cache
+c:\users\祐呈\documents\visual studio 2015\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+c:\users\祐呈\documents\visual studio 2015\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.Cache
+c:\users\祐呈\documents\visual studio 2015\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+c:\users\祐呈\documents\visual studio 2015\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+c:\users\祐呈\documents\visual studio 2015\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.user.resources
+c:\users\祐呈\documents\visual studio 2015\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.Insertuser.resources
+c:\users\祐呈\documents\visual studio 2015\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.deleteuser.resources
+c:\users\祐呈\documents\visual studio 2015\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.selectuser.resources
+c:\users\祐呈\documents\visual studio 2015\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.modiuser.resources
+C:\Users\祐呈\Documents\Visual Studio 2015\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.Booking.resources
+C:\Users\祐呈\Documents\Visual Studio 2015\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.querybook.resources
+C:\Users\祐呈\Documents\Visual Studio 2015\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.Form2.resources
+C:\Users\祐呈\Documents\Visual Studio 2015\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.Main.resources
